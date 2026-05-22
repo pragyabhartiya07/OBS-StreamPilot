@@ -1,0 +1,22 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie
+credentials:
+  usernames:
+    _pragya_:
+      email: pragya@gmail.com
+      first_name: pragya
+      last_name: bhartiya
+      logged_in: false
+      password: $2b$12$43W0gVOTyg4JK9JmgodXj.ebY.3oS5UUCFH0txJdPPvL.v5vzT8IO
+      role: admin
+    manasvi_sharma:
+      email: manasvi@gmail.com
+      first_name: Manasvi
+      last_name: Sharma
+      logged_in: false
+      password: $2b$12$j7.84uljL7epK4gHZZD8luwsqaVhR3MbIyNkTaUklR62xEN2KKbBe
+      role: user 
+preauthorized:
+  emails: []
